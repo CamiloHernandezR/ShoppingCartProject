@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "01b53b0e-9713-412e-be2a-72f28f1aa569": {
+      "ProjectGuid": "01b53b0e-9713-412e-be2a-72f28f1aa569",
+      "DisplayName": "ShopOnline.Web",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
