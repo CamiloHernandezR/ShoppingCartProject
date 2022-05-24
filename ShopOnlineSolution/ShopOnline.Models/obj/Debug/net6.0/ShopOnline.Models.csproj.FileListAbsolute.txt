@@ -1,0 +1,12 @@
+C:\Users\Camilo\Documents\C# Projects\WebAssembly\ShopOnlineSolution\ShopOnline.Models\bin\Debug\net6.0\ShopOnline.Models.deps.json
+C:\Users\Camilo\Documents\C# Projects\WebAssembly\ShopOnlineSolution\ShopOnline.Models\bin\Debug\net6.0\ShopOnline.Models.dll
+C:\Users\Camilo\Documents\C# Projects\WebAssembly\ShopOnlineSolution\ShopOnline.Models\bin\Debug\net6.0\ref\ShopOnline.Models.dll
+C:\Users\Camilo\Documents\C# Projects\WebAssembly\ShopOnlineSolution\ShopOnline.Models\bin\Debug\net6.0\ShopOnline.Models.pdb
+C:\Users\Camilo\Documents\C# Projects\WebAssembly\ShopOnlineSolution\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.csproj.AssemblyReference.cache
+C:\Users\Camilo\Documents\C# Projects\WebAssembly\ShopOnlineSolution\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilo\Documents\C# Projects\WebAssembly\ShopOnlineSolution\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.AssemblyInfoInputs.cache
+C:\Users\Camilo\Documents\C# Projects\WebAssembly\ShopOnlineSolution\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.AssemblyInfo.cs
+C:\Users\Camilo\Documents\C# Projects\WebAssembly\ShopOnlineSolution\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\Documents\C# Projects\WebAssembly\ShopOnlineSolution\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.dll
+C:\Users\Camilo\Documents\C# Projects\WebAssembly\ShopOnlineSolution\ShopOnline.Models\obj\Debug\net6.0\ref\ShopOnline.Models.dll
+C:\Users\Camilo\Documents\C# Projects\WebAssembly\ShopOnlineSolution\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.pdb
